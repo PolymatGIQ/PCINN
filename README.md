@@ -6,8 +6,8 @@ More details are described in [our paper](https://pubs.rsc.org/en/content/).
 
 
 ## Packages
-Required packages and thier versions are listed in the [requirements](https://github.com/PolymatGIQ/).
+Required packages and their versions are listed in the [requirements](https://github.com/PolymatGIQ/).
 
 ## LICENSE
 This repository is licensed under CC BY-NC 4.0.
-For more information please refer to the [license section](https://github.com/PolymatGIQ/PCINN/blob/main/LICENSE.md).
+For more information please refer to the [license section](https://github.com/PolymatGIQ/PCINN/blob/main/License.md).
